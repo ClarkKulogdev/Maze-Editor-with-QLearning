@@ -19,6 +19,8 @@ This simple program is written in Python. Combination of the cliff problem and m
 3. You can speed up 's' key or speed down the training processes of the agent.
 4.If the training was done, you'll notice that the speed of the agent is slow and the its color is now ORANGE.
 
+5. To quit, long press 'Enter' key
+
 ## Reference of this project.
 [Mnemstudio](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 
